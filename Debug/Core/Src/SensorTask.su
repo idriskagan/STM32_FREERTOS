@@ -1,0 +1,4 @@
+../Core/Src/SensorTask.c:8:6:SensorTask1	24	static
+../Core/Src/SensorTask.c:29:10:ADIS_ReadRegister	24	static
+../Core/Src/SensorTask.c:44:7:convert_gyro	16	static
+../Core/Src/SensorTask.c:48:7:convert_accel	16	static
